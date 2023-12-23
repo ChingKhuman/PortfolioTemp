@@ -149,13 +149,13 @@ export const testimonials = [
 export const socialMedias = [
     {
         href: 'khumanchigtham123@gmail.com',
-        ariaLabel: 'Compose an email to Ed Park',
+        ariaLabel: 'Compose an email to Ching Khuman',
         title: 'Write an Email to Ed Park',
         Icon: Icons.EmailIcon,
     },
     {
         href: 'www.linkedin.com/in/ching-singh-4a79a821a',
-        ariaLabel: 'Goes to Ed Park&apos;s LinkedIn profile',
+        ariaLabel: ' LinkedIn profile',
         title: 'LinkedIn Profile',
         Icon: Icons.LinkedInIcon,
     },
@@ -167,7 +167,7 @@ export const socialMedias = [
     },
     {
         href: '',
-        ariaLabel: 'Goes to Ed Park&apos;s Twitter profile',
+        ariaLabel: ' Twitter profile',
         title: 'Twitter Profile',
         Icon: Icons.TwitterIcon,
     },
@@ -459,39 +459,39 @@ export const educations = [
 export const dessertImages = [
     {
         src: '/assets/images/projects/bliss.png',
-        altText: 'Oreo cupcakes with the toastmasters club 10th anniversary cupcake topper',
+        altText: 'Bliss Cake of Imphal',
         value: 'oreo-cupcakes',
-        label: 'Oreo cupcakes',
+        label: 'Bliss Cake',
     },
     {
         src: '/assets/images/projects/Toi.png',
-        altText: 'Large cake decorated to look like an everything bagel',
+        altText: 'Taste of Imphal food',
         value: 'bagel-cake',
-        label: 'Everything bagel cake',
+        label: 'Taste of Imphal',
     },
     {
         src: '/assets/images/projects/Upcap.png',
-        altText: 'Cheese souffle in a ramekin',
+        altText: 'UpCap Invested site',
         value: 'souffle',
-        label: 'Cheese souffle',
+        label: 'Upcap',
     },
     {
         src: '/assets/images/projects/bliss.png',
-        altText: 'Plate of chocolate chip cookies',
+        altText: 'Bliss Cake of Imphal',
         value: 'cookies',
-        label: 'Chocolate chip cookies',
+        label: 'Bliss Cake',
     },
     {
         src: '/assets/images/projects/Toi.png',
-        altText: 'Red velvet cupcake with cream cheese frosting with a strawberry macaron on top',
+        altText: 'Taste of Imphal food',
         value: 'macaron-cupcakes',
-        label: 'Red velvet cupcake',
+        label: 'TOI',
     },
     {
         src: '/assets/images/projects/Upcap.png',
-        altText: 'Cannoli cupcakes with chocolate chips on top',
+        altText: 'UpCap Invested site',
         value: 'cannoli-cupcakes',
-        label: 'Cannoli cupcakes',
+        label: 'Upcap',
     },
 ];
 
