@@ -6,7 +6,7 @@ import { dessertImages } from "../constants/data";
 export default function About() {
     return (
         <section className="w-[100%] mt-9 sm:mt-10 md:mt-11 flex flex-col flex-nowrap items-center justify-center gap-7 px-mobileBound sm:px-8 sm:gap-8 md:gap-9 lg:gap-10">
-            <h1 className="text-center max-w-[18em]">About Ed</h1>
+            <h1 className="text-center max-w-[18em]">About Me</h1>
             <img className="w-[300px] profile-border" src="/assets/images/chin.jpeg" alt="Profile of Ching" />
             <p className="text-justify">Hello! My name is Chingtham, and I currently work as a local project in Manipur, Imphal. My primary focus centers on constructing and enhancing websites for businesses, helping them establish a robust digital presence.</p>
             <p className="text-justify">I hold a B.C.A. in Computer Engineering from the Manipur University at NIELIT. In a former role, I worked as a Computer Operator at Manipur Press for 1 years, where I specialized in creating and customizing Sharepoint websites for clients. Additionally, I successfully managed a system for processing Sharepoint data in a database. I made the transition into web development driven by my passion for designing websites and solving problems that empower businesses to thrive.</p>
